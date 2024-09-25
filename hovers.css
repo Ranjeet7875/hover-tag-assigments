@@ -1,0 +1,23 @@
+.hovers{
+    padding: 20px 20px;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    width: 100%;
+
+}
+.hovers>div{
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+    align-items: center;
+
+}
+
+.items3:hover{
+    background-color: black;
+    width: 400px;
+    height: 400px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+
+}
